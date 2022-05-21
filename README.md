@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@saidi_sinz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[https://twitter.com/saidi_sinz](https://twitter.com/saidi_sinz))]([https://twitter.com/saidi_sinz](https://twitter.com/saidi_sinz)) [![Linkedin Badge](https://img.shields.io/badge/-sinnerd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinnerd/)](https://www.linkedin.com/in/sinnerd/)
 [![Gmail Badge](https://img.shields.io/badge/-saidiislam05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](mailto:saidiislam05@gmail.com)
 ---
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <!-- <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" /> -->
 <div size='20px'><h3>I'm Saidi Islam Nadim 🐵 <br><br>a Web-App Dev, UI/UX & IT Enthusiast :smile:</h3> 
 </div>
