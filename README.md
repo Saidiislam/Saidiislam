@@ -23,8 +23,8 @@
   <h3>My stack is as follows:</h3>
   
 * **Frontend**: HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Vue.js
-* **Backend**: Node, Express, Python
-* **Database**: MongoDB, MySql
+* **Backend**: Node, Express, Apollo, Tanstack Query, Python, Prisma
+* **Database**: MongoDB, MySql, PostgreSQL
 * **Cloud Computing**: Docker
 
   <br><br>
