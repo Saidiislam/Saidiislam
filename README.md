@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 * 🧐   Interested in full stack. Recent focus on Spline.js.
-* 💼   Used to be a Software Engineer Intern at kaicomsol.com
+* 💼   Used to be a Software Engineering Intern at kaicomsol.com
 * 🎓   Diploma in Computer Science. GPA 3.90/4.0.
 * 💻   With 4 years' computer science and technology education and 1.5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
